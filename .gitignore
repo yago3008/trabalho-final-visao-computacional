@@ -1,0 +1,11 @@
+.venv/
+.uv-cache/
+.vscode/
+data/raw/*.zip
+data/raw/dataset/
+data/processed/
+outputs/modelos/*.joblib
+outputs/relatorio_preview/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/

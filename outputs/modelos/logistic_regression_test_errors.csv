@@ -1,0 +1,17 @@
+image_path,y_true,y_pred
+data/processed/test/fresh/freshapples_7c6090dc6375.png,fresh,rotten
+data/processed/test/fresh/freshbanana_b4f3000234ba.png,fresh,rotten
+data/processed/test/fresh/freshapples_b07c64c77312.png,fresh,rotten
+data/processed/test/fresh/freshbanana_b1490dd5c752.png,fresh,rotten
+data/processed/test/fresh/freshapples_7feb2504ef86.png,fresh,rotten
+data/processed/test/fresh/freshbanana_444f74a01c97.png,fresh,rotten
+data/processed/test/fresh/freshapples_0554134c2c59.png,fresh,rotten
+data/processed/test/rotten/rottenoranges_8365a9ea0d22.png,rotten,fresh
+data/processed/test/rotten/rottenapples_aeb8a763108e.png,rotten,fresh
+data/processed/test/rotten/rottenoranges_2ded1632e8ef.png,rotten,fresh
+data/processed/test/rotten/rottenoranges_d95e3ff7ea24.png,rotten,fresh
+data/processed/test/rotten/rottenapples_8a5b49245986.png,rotten,fresh
+data/processed/test/rotten/rottenapples_622870b0d0e5.png,rotten,fresh
+data/processed/test/rotten/rottenbanana_eb3b8cc8ec06.png,rotten,fresh
+data/processed/test/rotten/rottenapples_91fae047e32f.png,rotten,fresh
+data/processed/test/rotten/rottenapples_437b3d90c975.png,rotten,fresh
