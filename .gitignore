@@ -4,8 +4,11 @@
 data/raw/*.zip
 data/raw/dataset/
 data/processed/
-outputs/modelos/*.joblib
+outputs/dashboard/
 outputs/relatorio_preview/
+outputs/modelos/*.joblib
+pdf.txt
+PROJETO_INSPECAO_VISUAL_CLASSIFICACAO_A1.pdf
 *.pyc
 __pycache__/
 .ipynb_checkpoints/

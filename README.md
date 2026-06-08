@@ -128,11 +128,9 @@ No dashboard, o botao **Ver imagens classificadas** abre a galeria das imagens a
 - `outputs/modelos/matrizes_confusao`: matrizes de confusao.
 - `outputs/modelos/roc`: curvas ROC.
 - `outputs/erros`: imagens classificadas incorretamente.
-- `ANALISE_ERROS.md`: hipoteses para 10 erros do Random Forest.
 - `outputs/xai`: importancia por permutacao para explicar o modelo.
 - `outputs/relatorio_tecnico.pdf`: relatorio tecnico de 6 a 10 paginas.
 - `ROTEIRO_VIDEO.md`: guia de gravacao do video.
-- `PUBLICACAO_GITHUB.md`: guia para publicar o repositorio e entregar os links.
 
 ## Metodologia
 
